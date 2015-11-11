@@ -38,7 +38,7 @@ A boilerplate for setting up a React + NuclearJS project.
 
 * This project comes with a script to install dependencies and initialize the
   database. So the very first thing you want to do after cloning this repo is to
-  run `bin/setup`.
+  run `resources/setup.sh`.
 * To run the app server and test server, run `npm run start`.
 * To view the app in a browser, go to <http://localhost:3000>.
 * To view the tests in a browser, go to <http://localhost:9876/debug.html>.
